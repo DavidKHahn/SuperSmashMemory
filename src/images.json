@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Bowser",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/600px_bowser_ssb4.png"
+  },
+  {
+    "id": 2,
+    "name": "Donkey Kong",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/ssb4dk_1221.png"
+  },
+  {
+    "id": 3,
+    "name": "Peach",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/img_3246.PNG"
+  },
+  {
+    "id": 4,
+    "name": "Zelda",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/img_3211.PNG"
+  },
+  {
+    "id": 5,
+    "name": "Ice Climbers",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/iceclimbersssbb_7039.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Mario",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/doc_mario_ssb4_2665.png"
+  },
+  {
+    "id": 7,
+    "name": "Pichu",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/Pichumelee_8231.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Falco",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/falco_ssb4_5937.png"
+  },
+  {
+    "id": 9,
+    "name": "Marth",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/marthssb4_1695.png"
+  },
+  {
+    "id": 10,
+    "name": "Roy",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/762a0a72177a0dd02f2b324e23977ca0.png"
+  },
+  {
+    "id": 11,
+    "name": "Young Link",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/Younglinkmelee_2325.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ganondorf",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/ganon_ssb4_2768.png"
+  },
+  {
+    "id": 13,
+    "name": "Mewtwo",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/52261d6fd7ce47e893bc0c9ef9114dab.png"
+  },
+  {
+    "id": 14,
+    "name": "Mr. Game & Watch",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/gaw_ssb4_748.png"
+  },
+  {
+    "id": 15,
+    "name": "Captain Falco",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/captain_hyez_9650.png"
+  },
+  {
+    "id": 16,
+    "name": "Samus",
+    "clicked": false,
+    "image":
+      "http://static.tvtropes.org/pmwiki/pub/images/ssb4samus_6015.png"
+  }
+]
+
